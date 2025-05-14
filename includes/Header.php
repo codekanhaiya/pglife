@@ -31,7 +31,7 @@
                         Hi, <?php echo $_SESSION["full_name"] ?>
                     </div>
                     <li class="nav-item">
-                        <a class="nav-link" href="dashboard.php">
+                        <a class="nav-link" href="Dashboard.php">
                             <i class="fas fa-user"></i>Dashboard
                         </a>
                     </li>
