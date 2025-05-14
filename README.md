@@ -47,21 +47,21 @@ PG Life is a web application designed to simplify the process of finding and sec
 
 2. **Setup on XAMPP:**
 
-- Place the cloned folder inside the htdocs directory of XAMPP.
+   - Place the cloned folder inside the htdocs directory of XAMPP.
 
-- Start Apache and MySQL from the XAMPP control panel.
+   - Start Apache and MySQL from the XAMPP control panel.
 
 3. **Database Configuration:**
 
-- Open phpMyAdmin.
+   - Open phpMyAdmin.
 
-- Create a new database named pglife.
+   - Create a new database named pglife.
 
-- Import the pglife.sql file located in the project root to this database.
+   - Import the pglife.sql file located in the project root to this database.
 
 4. **Run the Application:**
 
-- Navigate to http://localhost/pglife/index.php in your web browser.
+   - Navigate to http://localhost/pglife/index.php in your web browser.
 
 ## 📸 Screenshots
 
